@@ -7,7 +7,6 @@ dist/test/
 index.ts
 typescript-to-json-schema.ts
 
-tsconfig.json
 tslint.json
 
 .idea/
