@@ -1,11 +1,7 @@
 node_modules/
-src/
-factory/
 test/
 dist/test/
 
-index.ts
-typescript-to-json-schema.ts
 
 tslint.json
 
